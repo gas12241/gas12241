@@ -1,6 +1,6 @@
 # Welcome to George Alvarado-Salinas's GitHub! 👋
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1250&pause=1500&background=7E1EFF00&center=true&vCenter=true&width=520&lines=Backend+Software+Engineer;Java+%7C+Python+%7C+Spring+Boot+%7C+Django;Applied+AI+Engineering+%40+CodePath;Open+Source+Software+Contributor;Engineering+with+AI+as+a+Strategic+Partner" alt="Typing SVG" /></a></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1500&center=true&vCenter=true&width=520&height=60&lines=Backend+Software+Engineer;Java+%7C+Python+%7C+Spring+Boot+%7C+Django;Applied+AI+Engineering+%40+CodePath;Open+Source+Software+Contributor;Engineering+with+AI+as+a+Strategic+Partner)](https://git.io/typing-svg)
 
 [🔗 LinkedIn](https://www.linkedin.com/in/georgealvarado-salinas206/)
 [📨 Email](georgepitcher11@gmail.com)
