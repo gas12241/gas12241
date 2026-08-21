@@ -23,13 +23,19 @@ stacks = {
 ```
 
 ## GitHub Activity
+<div align="center">
 
-[![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gas12241&theme=github_dark)](https://github.com/gas12241)
+ [![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gas12241&theme=github_dark)](https://github.com/gas12241)
+
+</div>
 
 ## 🏅LeetCode Stats
 
-[![LeetCode Heatmap](https://leetcard.jacoblin.cool/gas12241?theme=dark&font=Baloo%202&ext=heatmap)](https://leetcode.com/u/gas12241/)e
+<div align="center">
 
+ [![LeetCode Heatmap](https://leetcard.jacoblin.cool/gas12241?theme=dark&font=Baloo%202&ext=heatmap)](https://leetcode.com/u/gas12241/)e
+
+</div>
 <!--
 **gas12241/gas12241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
