@@ -1,18 +1,24 @@
-# Welcome to George Alvarado-Salinas's GitHub! 👋
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1250&pause=1500&background=7E1EFF00&center=true&vCenter=true&width=520&lines=Backend+Software+Engineer;Java+%7C+Python+%7C+Spring+Boot+%7C+Django;Applied+AI+Engineering+%40+CodePath;Open+Source+Software+Contributor;Engineering+with+AI+as+a+Strategic+Partner" alt="Typing SVG" /></a></p>
+<div align="center">
+<h1> Welcome to George Alvarado-Salinas's GitHub! 👋</h1>
+<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1250&pause=1500&background=7E1EFF00&center=true&vCenter=true&width=520&lines=Backend+Software+Engineer;Java+%7C+Python+%7C+Spring+Boot+%7C+Django;Applied+AI+Engineering+%40+CodePath;Open+Source+Software+Contributor;Engineering+with+AI+as+a+Strategic+Partner" alt="Typing SVG" /></a></p>
 
 <a href="mailto:georgepitcher11@gmail.com">✉️ Email</a>
  &nbsp;|&nbsp;
  <a href="https://www.linkedin.com/in/georgealvarado-salinas206/" rel="nofollow">🔗 LinkedIn</a>
+</div>
+<h2>About Me</h2>
 
-## About Me
 ```py
-name = "Hello"
-location =
-email =
+name = "George Alvarado-Salinas"
+location = "Seattle, WA"
+email = "georgepitcher11@gmail.com"
 
 stacks = {
-  "fdsafs": "fdsafdsa"
+  "Languages": ["Python", "Java", "C"],
+  "Backend": ["Spring Boot", "Django"],
+  "Software Dev": ["OOP", "DSA", "REST APIs", "Git/GitHub", "Unit Testing"],
+  "Cloud & DevOps": ["AWS ()", "Docker"],
+  "Databases": ["MySQL", "MongoDB"],
 }
 ```
 <!--
