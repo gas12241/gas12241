@@ -41,11 +41,7 @@ stacks = {
 <p dir="auto"><strong>Key Design Decisions:</strong></p>
 
 <ul dir="auto">
-<li>Hybrid retrieval: FAISS dense search + BM25 keyword search → cross-encoder reranking — +15% Recall@3 vs vector-only</li>
-<li>Keyword-based document classifier (zero LLM cost, ~0ms latency, 90%+ accuracy on structured pharma docs)</li>
-<li>Tesseract OCR fallback with adaptive thresholding for scanned pages</li>
-<li>Built-in evaluation suite: Recall@K, MRR, Precision@K, keyword match, and latency benchmarks</li>
-<li>100% citation accuracy — model instructed to abstain rather than hallucinate</li>
+<li>Design Decision Example</li>
 </ul>
 
 <hr>
@@ -68,11 +64,7 @@ stacks = {
 <p dir="auto"><strong>Key Design Decisions:</strong></p>
 
 <ul dir="auto">
-<li>Hybrid retrieval: FAISS dense search + BM25 keyword search → cross-encoder reranking — +15% Recall@3 vs vector-only</li>
-<li>Keyword-based document classifier (zero LLM cost, ~0ms latency, 90%+ accuracy on structured pharma docs)</li>
-<li>Tesseract OCR fallback with adaptive thresholding for scanned pages</li>
-<li>Built-in evaluation suite: Recall@K, MRR, Precision@K, keyword match, and latency benchmarks</li>
-<li>100% citation accuracy — model instructed to abstain rather than hallucinate</li>
+<li>Design Decision Example</li>
 </ul>
 
 <hr>
@@ -95,11 +87,7 @@ stacks = {
 <p dir="auto"><strong>Key Design Decisions:</strong></p>
 
 <ul dir="auto">
-<li>Hybrid retrieval: FAISS dense search + BM25 keyword search → cross-encoder reranking — +15% Recall@3 vs vector-only</li>
-<li>Keyword-based document classifier (zero LLM cost, ~0ms latency, 90%+ accuracy on structured pharma docs)</li>
-<li>Tesseract OCR fallback with adaptive thresholding for scanned pages</li>
-<li>Built-in evaluation suite: Recall@K, MRR, Precision@K, keyword match, and latency benchmarks</li>
-<li>100% citation accuracy — model instructed to abstain rather than hallucinate</li>
+<li>Design Decision Example</li>
 </ul>
 
 <hr>
@@ -122,11 +110,7 @@ stacks = {
 <p dir="auto"><strong>Key Design Decisions:</strong></p>
 
 <ul dir="auto">
-<li>Hybrid retrieval: FAISS dense search + BM25 keyword search → cross-encoder reranking — +15% Recall@3 vs vector-only</li>
-<li>Keyword-based document classifier (zero LLM cost, ~0ms latency, 90%+ accuracy on structured pharma docs)</li>
-<li>Tesseract OCR fallback with adaptive thresholding for scanned pages</li>
-<li>Built-in evaluation suite: Recall@K, MRR, Precision@K, keyword match, and latency benchmarks</li>
-<li>100% citation accuracy — model instructed to abstain rather than hallucinate</li>
+<li>Design Decision Example</li>
 </ul>
 
 <hr>
