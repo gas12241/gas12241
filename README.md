@@ -21,6 +21,115 @@ stacks = {
   "Databases": ["MySQL", "MongoDB"],
 }
 ```
+<h2>Featured Projects</h2>
+
+<strong>
+ <a href="https://github.com/sravanibhamidipaty/pharma-document-intelligence">Get Poked!</a>
+</strong>
+ · 
+<a href="https://huggingface.co/spaces/sravanib/PharmaDocs-AI" rel="nofollow">🤗 Live Demo</a>
+
+<p>
+ Summary of the Project
+</p>
+
+<p>
+ <strong>Technologies Used:</strong>
+  Python · FAISS · BM25 · LlamaIndex · Groq (Llama 3.3 70B) · Sentence Transformers · Cross-Encoder Reranking · Gradio · HuggingFace Spaces
+</p>
+
+<p dir="auto"><strong>Key Design Decisions:</strong></p>
+
+<ul dir="auto">
+<li>Hybrid retrieval: FAISS dense search + BM25 keyword search → cross-encoder reranking — +15% Recall@3 vs vector-only</li>
+<li>Keyword-based document classifier (zero LLM cost, ~0ms latency, 90%+ accuracy on structured pharma docs)</li>
+<li>Tesseract OCR fallback with adaptive thresholding for scanned pages</li>
+<li>Built-in evaluation suite: Recall@K, MRR, Precision@K, keyword match, and latency benchmarks</li>
+<li>100% citation accuracy — model instructed to abstain rather than hallucinate</li>
+</ul>
+
+<hr>
+
+<strong>
+ <a href="https://github.com/sravanibhamidipaty/pharma-document-intelligence">Django Modern Rest Contribution</a>
+</strong>
+ · 
+<a href="https://huggingface.co/spaces/sravanib/PharmaDocs-AI" rel="nofollow">🤗 Live Demo</a>
+
+<p>
+ Summary of the Project
+</p>
+
+<p>
+ <strong>Technologies Used:</strong>
+  Python · FAISS · BM25 · LlamaIndex · Groq (Llama 3.3 70B) · Sentence Transformers · Cross-Encoder Reranking · Gradio · HuggingFace Spaces
+</p>
+
+<p dir="auto"><strong>Key Design Decisions:</strong></p>
+
+<ul dir="auto">
+<li>Hybrid retrieval: FAISS dense search + BM25 keyword search → cross-encoder reranking — +15% Recall@3 vs vector-only</li>
+<li>Keyword-based document classifier (zero LLM cost, ~0ms latency, 90%+ accuracy on structured pharma docs)</li>
+<li>Tesseract OCR fallback with adaptive thresholding for scanned pages</li>
+<li>Built-in evaluation suite: Recall@K, MRR, Precision@K, keyword match, and latency benchmarks</li>
+<li>100% citation accuracy — model instructed to abstain rather than hallucinate</li>
+</ul>
+
+<hr>
+
+<strong>
+ <a href="https://github.com/sravanibhamidipaty/pharma-document-intelligence">Class RAG</a>
+</strong>
+ · 
+<a href="https://huggingface.co/spaces/sravanib/PharmaDocs-AI" rel="nofollow">🤗 Live Demo</a>
+
+<p>
+ Summary of the Project
+</p>
+
+<p>
+ <strong>Technologies Used:</strong>
+  Python · FAISS · BM25 · LlamaIndex · Groq (Llama 3.3 70B) · Sentence Transformers · Cross-Encoder Reranking · Gradio · HuggingFace Spaces
+</p>
+
+<p dir="auto"><strong>Key Design Decisions:</strong></p>
+
+<ul dir="auto">
+<li>Hybrid retrieval: FAISS dense search + BM25 keyword search → cross-encoder reranking — +15% Recall@3 vs vector-only</li>
+<li>Keyword-based document classifier (zero LLM cost, ~0ms latency, 90%+ accuracy on structured pharma docs)</li>
+<li>Tesseract OCR fallback with adaptive thresholding for scanned pages</li>
+<li>Built-in evaluation suite: Recall@K, MRR, Precision@K, keyword match, and latency benchmarks</li>
+<li>100% citation accuracy — model instructed to abstain rather than hallucinate</li>
+</ul>
+
+<hr>
+
+<strong>
+ <a href="https://github.com/sravanibhamidipaty/pharma-document-intelligence">Gamestore</a>
+</strong>
+ · 
+<a href="https://huggingface.co/spaces/sravanib/PharmaDocs-AI" rel="nofollow">🤗 Live Demo</a>
+
+<p>
+ Summary of the Project
+</p>
+
+<p>
+ <strong>Technologies Used:</strong>
+  Python · FAISS · BM25 · LlamaIndex · Groq (Llama 3.3 70B) · Sentence Transformers · Cross-Encoder Reranking · Gradio · HuggingFace Spaces
+</p>
+
+<p dir="auto"><strong>Key Design Decisions:</strong></p>
+
+<ul dir="auto">
+<li>Hybrid retrieval: FAISS dense search + BM25 keyword search → cross-encoder reranking — +15% Recall@3 vs vector-only</li>
+<li>Keyword-based document classifier (zero LLM cost, ~0ms latency, 90%+ accuracy on structured pharma docs)</li>
+<li>Tesseract OCR fallback with adaptive thresholding for scanned pages</li>
+<li>Built-in evaluation suite: Recall@K, MRR, Precision@K, keyword match, and latency benchmarks</li>
+<li>100% citation accuracy — model instructed to abstain rather than hallucinate</li>
+</ul>
+
+<hr>
 
 ## GitHub Activity
 <div align="center">
