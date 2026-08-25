@@ -4,7 +4,7 @@
 
 <a href="mailto:georgepitcher11@gmail.com">✉️ Email</a>
  &nbsp;|&nbsp;
- <a href="https://www.linkedin.com/in/georgealvarado-salinas206/" rel="nofollow">🔗 LinkedIn</a>
+ <a href="https://www.linkedin.com/in/georgealvarado-salinas206/" target="_blank" rel="noopener noreferrer">🔗 LinkedIn</a>
 </div>
 <h2>About Me</h2>
 
@@ -25,10 +25,10 @@ stacks = {
 <h2>Featured Projects</h2>
 
 <strong>
- <a href="https://github.com/gas12241/get-poked">Get Poked!</a>
+ <a href="https://github.com/gas12241/get-poked" target="_blank" rel="noopener noreferrer">Get Poked!</a>
 </strong>
  · 
-<a href="" rel="nofollow">🤗 Live Demo (Coming soon!)</a>
+<a href="" target="_blank" rel="noopener noreferrer">🤗 Live Demo (Coming soon!)</a>
 
 <p>
  Summary of the Project
@@ -48,7 +48,7 @@ stacks = {
 <hr>
 
 <strong>
- <a href="https://github.com/gas12241/su26-ai301-contribution">Django Modern Rest Contribution</a>
+ <a href="https://github.com/gas12241/su26-ai301-contribution" target="_blank" rel="noopener noreferrer">Django Modern Rest Contribution</a>
 </strong>
 
 <p>
@@ -69,10 +69,10 @@ stacks = {
 <hr>
 
 <strong>
- <a href="https://github.com/gas12241/ai201-project1-unofficial-guide-starter">Class RAG</a>
+ <a href="https://github.com/gas12241/ai201-project1-unofficial-guide-starter" target="_blank" rel="noopener noreferrer">Class RAG</a>
 </strong>
  · 
-<a href="https://www.youtube.com/watch?v=Q8PAcSbdoRg" rel="nofollow">Live Demo</a>
+<a href="https://www.youtube.com/watch?v=Q8PAcSbdoRg" target="_blank" rel="noopener noreferrer">Live Demo</a>
 
 <p>
  Summary of the Project
@@ -92,7 +92,7 @@ stacks = {
 <hr>
 
 <strong>
- <a href="https://github.com/gas12241/Final-Project-Alvarado-Salinas-George">Gamestore</a>
+ <a href="https://github.com/gas12241/Final-Project-Alvarado-Salinas-George" target="_blank" rel="noopener noreferrer">Gamestore</a>
 </strong>
 
 <p>
