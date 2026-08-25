@@ -21,13 +21,14 @@ stacks = {
   "Databases": ["MySQL", "MongoDB"],
 }
 ```
+
 <h2>Featured Projects</h2>
 
 <strong>
- <a href="https://github.com/sravanibhamidipaty/pharma-document-intelligence">Get Poked!</a>
+ <a href="https://github.com/gas12241/get-poked">Get Poked!</a>
 </strong>
  · 
-<a href="https://huggingface.co/spaces/sravanib/PharmaDocs-AI" rel="nofollow">🤗 Live Demo</a>
+<a href="" rel="nofollow">🤗 Live Demo (Coming soon!)</a>
 
 <p>
  Summary of the Project
@@ -47,10 +48,8 @@ stacks = {
 <hr>
 
 <strong>
- <a href="https://github.com/sravanibhamidipaty/pharma-document-intelligence">Django Modern Rest Contribution</a>
+ <a href="https://github.com/gas12241/su26-ai301-contribution">Django Modern Rest Contribution</a>
 </strong>
- · 
-<a href="https://huggingface.co/spaces/sravanib/PharmaDocs-AI" rel="nofollow">🤗 Live Demo</a>
 
 <p>
  Summary of the Project
@@ -70,10 +69,10 @@ stacks = {
 <hr>
 
 <strong>
- <a href="https://github.com/sravanibhamidipaty/pharma-document-intelligence">Class RAG</a>
+ <a href="https://github.com/gas12241/ai201-project1-unofficial-guide-starter">Class RAG</a>
 </strong>
  · 
-<a href="https://huggingface.co/spaces/sravanib/PharmaDocs-AI" rel="nofollow">🤗 Live Demo</a>
+<a href="https://www.youtube.com/watch?v=Q8PAcSbdoRg" rel="nofollow">Live Demo</a>
 
 <p>
  Summary of the Project
@@ -93,10 +92,8 @@ stacks = {
 <hr>
 
 <strong>
- <a href="https://github.com/sravanibhamidipaty/pharma-document-intelligence">Gamestore</a>
+ <a href="https://github.com/gas12241/Final-Project-Alvarado-Salinas-George">Gamestore</a>
 </strong>
- · 
-<a href="https://huggingface.co/spaces/sravanib/PharmaDocs-AI" rel="nofollow">🤗 Live Demo</a>
 
 <p>
  Summary of the Project
