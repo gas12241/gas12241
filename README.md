@@ -35,7 +35,7 @@ stacks = {
 
 <p>
  <strong>Technologies Used:</strong>
-  Python · FAISS · BM25 · LlamaIndex · Groq (Llama 3.3 70B) · Sentence Transformers · Cross-Encoder Reranking · Gradio · HuggingFace Spaces
+  Tech 1 · Tech 2 · Tech 3 · Tech 4 · Tech 5
 </p>
 
 <p dir="auto"><strong>Key Design Decisions:</strong></p>
@@ -58,7 +58,7 @@ stacks = {
 
 <p>
  <strong>Technologies Used:</strong>
-  Python · FAISS · BM25 · LlamaIndex · Groq (Llama 3.3 70B) · Sentence Transformers · Cross-Encoder Reranking · Gradio · HuggingFace Spaces
+  Tech 1 · Tech 2 · Tech 3 · Tech 4 · Tech 5
 </p>
 
 <p dir="auto"><strong>Key Design Decisions:</strong></p>
@@ -81,7 +81,7 @@ stacks = {
 
 <p>
  <strong>Technologies Used:</strong>
-  Python · FAISS · BM25 · LlamaIndex · Groq (Llama 3.3 70B) · Sentence Transformers · Cross-Encoder Reranking · Gradio · HuggingFace Spaces
+  Tech 1 · Tech 2 · Tech 3 · Tech 4 · Tech 5
 </p>
 
 <p dir="auto"><strong>Key Design Decisions:</strong></p>
@@ -104,7 +104,7 @@ stacks = {
 
 <p>
  <strong>Technologies Used:</strong>
-  Python · FAISS · BM25 · LlamaIndex · Groq (Llama 3.3 70B) · Sentence Transformers · Cross-Encoder Reranking · Gradio · HuggingFace Spaces
+  Tech 1 · Tech 2 · Tech 3 · Tech 4 · Tech 5
 </p>
 
 <p dir="auto"><strong>Key Design Decisions:</strong></p>
