@@ -126,6 +126,15 @@ stacks = {
  [![LeetCode Heatmap](https://leetcard.jacoblin.cool/gas12241?theme=dark&font=Baloo%202&ext=heatmap)](https://leetcode.com/u/gas12241/)e
 
 </div>
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/georgealvarado-salinas206/" rel="nofollow"><img src="https://camo.githubusercontent.com/66945afda8358918a615bfbcce4b11fe2e532546fd33c2e00c93e97210385938/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666c6174266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+ <a href="mailto:georgepitcher11@gmail.com"><img src="https://camo.githubusercontent.com/b2949d78d0948cd014d1384c205e97dfed1de12523665549b59d30ad24a6cd5c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d4431343833363f7374796c653d666c6174266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Email-D14836?style=flat&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
+ <a href="https://github.com/gas12241"><img src="https://camo.githubusercontent.com/b4ba68fb7704a954feb95308413562deb49e74feb076302abb9583785bc65774/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666c6174266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitHub-181717?style=flat&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"></a>
+ <a href="https://leetcode.com/u/gas12241/" rel="nofollow"><img src="https://camo.githubusercontent.com/96fbe1791e4316b7b1e7dd42597b4f21e0840fcc9e92f2d71aa7f242a7841c40/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c656574436f64652d3030303030303f7374796c653d666c6174266c6f676f3d6c656574636f6465266c6f676f436f6c6f723d6f72616e6765" data-canonical-src="https://img.shields.io/badge/LeetCode-000000?style=flat&amp;logo=leetcode&amp;logoColor=orange" style="max-width: 100%;"></a>
+</p>
+
+<hr>
 <!--
 **gas12241/gas12241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
