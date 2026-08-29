@@ -134,19 +134,41 @@ stacks = {
 <h3>Languages</h3>
 <p dir="auto">
  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" style="max-width: 100%;"></a>
-
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Java-007396?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" style="max-width: 100%;"></a>
-
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=white"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C" style="max-width: 100%;"></a>
 </p>
 
 <h3>Backend</h3>
+<p>
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django" style="max-width: 100%;"></a>
+</p>
 
 <h3>Software Dev</h3>
+<p>
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge&amp;logo=code&amp;logoColor=white"><img src="https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge&amp;logo=code&amp;logoColor=white" alt="OOP" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/REST-009688?style=for-the-badge&amp;logo=swagger&amp;logoColor=white"><img src="https://img.shields.io/badge/REST-009688?style=for-the-badge&amp;logo=swagger&amp;logoColor=white" alt="REST" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" style="max-width: 100%;"></a>
+</p>
 
 <h3>Cloud & DevOps</h3>
+<p>
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=white"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" style="max-width: 100%;"></a>
+</p>
 
 <h3>Databases</h3>
+<p>
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" style="max-width: 100%;"></a>
+</p>
+
+<h3>Currently Learning/Improving on</h3>
+<p>
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&amp;logo=unrealengine&amp;logoColor=white"><img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&amp;logo=unrealengine&amp;logoColor=white" alt="Unreal Engine" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" style="max-width: 100%;"></a>
+</p>
 
 <hr>
 
