@@ -127,6 +127,10 @@ stacks = {
 
 </div>
 
+<hr>
+
+<h2>Connect with me!</h2>
+
 <p align="center">
  <a href="https://www.linkedin.com/in/georgealvarado-salinas206/" rel="nofollow"><img src="https://camo.githubusercontent.com/66945afda8358918a615bfbcce4b11fe2e532546fd33c2e00c93e97210385938/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666c6174266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
  <a href="mailto:georgepitcher11@gmail.com"><img src="https://camo.githubusercontent.com/b2949d78d0948cd014d1384c205e97dfed1de12523665549b59d30ad24a6cd5c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d4431343833363f7374796c653d666c6174266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Email-D14836?style=flat&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
@@ -135,6 +139,9 @@ stacks = {
 </p>
 
 <hr>
+
+<p align="center">Feel free to reach out!</p>
+
 <!--
 **gas12241/gas12241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
