@@ -101,18 +101,21 @@ stacks = {
 </strong>
 
 <p>
- Summary of the Project
+ Created a Mock Gamestore for the Netflix Pathways Bootcamp using Java and Spring Boot. Culminating project which had us collaborate using Git.
 </p>
 
 <p>
  <strong>Technologies Used:</strong>
-  Tech 1 · Tech 2 · Tech 3 · Tech 4 · Tech 5
+  Java· Spring Boot · MySQL · GraphQL · REST API · JUnit · Git · AWS
 </p>
 
 <p dir="auto"><strong>Key Design Decisions:</strong></p>
 
 <ul dir="auto">
-<li>Design Decision Example</li>
+ <li>Used AWS's EC2 to host the Gamestore</li>
+ <li>Git to collaborate between 5 members</li>
+ <li>Followed Test Driven Development practices by writing tests before code</li>
+ <li>Used GraphQL as a way of flexibly retrieving data</li>
 </ul>
 
 <hr>
