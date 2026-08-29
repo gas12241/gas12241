@@ -132,6 +132,13 @@ stacks = {
 <h2>Tech Stack</h2>
 
 <h3>Languages</h3>
+<p dir="auto">
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" style="max-width: 100%;"></a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Java-007396?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" style="max-width: 100%;"></a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=white"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C" style="max-width: 100%;"></a>
+</p>
 
 <h3>Backend</h3>
 
