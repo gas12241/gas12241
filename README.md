@@ -17,7 +17,7 @@ stacks = {
   "Languages": ["Python", "Java", "C"],
   "Backend": ["Spring Boot", "Django"],
   "Software Dev": ["OOP", "DSA", "REST APIs", "Git/GitHub", "Unit Testing"],
-  "Cloud & DevOps": ["AWS ()", "Docker"],
+  "Cloud & DevOps": ["AWS", "Docker"],
   "Databases": ["MySQL", "MongoDB"],
 }
 ```
