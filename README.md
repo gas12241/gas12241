@@ -129,6 +129,20 @@ stacks = {
 
 <hr>
 
+<h2>Tech Stack</h2>
+
+<h3>Languages</h3>
+
+<h3>Backend</h3>
+
+<h3>Software Dev</h3>
+
+<h3>Cloud & DevOps</h3>
+
+<h3>Databases</h3>
+
+<hr>
+
 <h2>Connect with me!</h2>
 
 <p align="center">
