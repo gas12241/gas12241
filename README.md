@@ -74,25 +74,40 @@ stacks = {
 <hr>
 
 <strong>
- <a href="https://github.com/gas12241/ai201-project1-unofficial-guide-starter" target="_blank" rel="noopener noreferrer">Class RAG</a>
+ <a href="https://github.com/gas12241/ai201-project1-unofficial-guide-starter" target="_blank" rel="noopener noreferrer">Food around the UW RAG</a>
 </strong>
  · 
 <a href="https://www.youtube.com/watch?v=Q8PAcSbdoRg" target="_blank" rel="noopener noreferrer">Live Demo</a>
 
 <p>
- Summary of the Project
+ Created a RAG where a user could prompt to learn about places to eat around the University of Washington.
 </p>
 
 <p>
  <strong>Technologies Used:</strong>
-  Tech 1 · Tech 2 · Tech 3 · Tech 4 · Tech 5
+  Python · Gradio · ChromaDB · Sentence Transformers · Groq · Git
 </p>
 
 <p dir="auto"><strong>Key Design Decisions:</strong></p>
 
 <ul dir="auto">
-<li>Design Decision Example</li>
+ <li>Grounded RAG: Answers came strictly from the information it was fed</li>
+ <li>Created chunks of size 200 with an overlap of 50</li>
+ <li>Scraped web pages programmatically and manually</li>
+ <li>Gradio used as a lightweight frontend</li>
 </ul>
+
+<p dir="auto"><strong>Example Pipeline</strong></p>
+
+<ol dir="auto">
+ <li>User Question</li>
+ <li>Sentence Transformer</li>
+ <li>Find Relevant Chunks</li>
+ <li>ChromaDB</li>
+ <li>Retrieved Context</li>
+ <li>Groq LLM</li>
+ <li>Natural-Language answer</li>
+</ol>
 
 <hr>
 
