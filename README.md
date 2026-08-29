@@ -55,18 +55,20 @@ stacks = {
 </strong>
 
 <p>
- Summary of the Project
+ This is an Open Source Contribution Log where I detail my contribution to the django-modern-rest codebase. My job was to translate error codes from English to Mexican Spanish, allowing more people to work with the codebase.
 </p>
 
 <p>
  <strong>Technologies Used:</strong>
-  Tech 1 · Tech 2 · Tech 3 · Tech 4 · Tech 5
+  Python · Django · Git · Claude
 </p>
 
 <p dir="auto"><strong>Key Design Decisions:</strong></p>
 
 <ul dir="auto">
-<li>Design Decision Example</li>
+<li>First Open Source Contribution</li>
+ <li>Followed phases where I went between working and documenting, allowing those reading my log to follow my process in its entirety.</li>
+ <li>Followed the Project's AI protocols, making sure I was using AI responsibly.</li>
 </ul>
 
 <hr>
