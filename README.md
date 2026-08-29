@@ -25,24 +25,27 @@ stacks = {
 <h2>Featured Projects</h2>
 
 <strong>
- <a href="https://github.com/gas12241/get-poked" target="_blank" rel="noopener noreferrer">Get Poked!</a>
+ <a href="https://github.com/gas12241/get-poked" target="_blank" rel="noopener noreferrer">Get Poked! (Work in Progress)</a>
 </strong>
  · 
 <a href="" target="_blank" rel="noopener noreferrer">🤗 Live Demo (Coming soon!)</a>
 
 <p>
- Summary of the Project
+ I wanted to create an app that would allow people to test their Pokemon Card knowledge through guessing what card a set was from. What started as a Pokemon guessing game, turned into a place to track your cards as well.
 </p>
 
 <p>
  <strong>Technologies Used:</strong>
-  Tech 1 · Tech 2 · Tech 3 · Tech 4 · Tech 5
+  Python · TypeScript · Django · React · PostgreSQL · Google OAuth
 </p>
 
 <p dir="auto"><strong>Key Design Decisions:</strong></p>
 
 <ul dir="auto">
-<li>Design Decision Example</li>
+<li>Django used for backend as a way of continuing my learning of the framework (Mostly worked in Java Spring Boot before)</li>
+ <li>Google OAuth on top of email/password sign in to make it easier for users to log in.</li>
+ <li>The ability to track your collection of cards!</li>
+ <li>Cool animation when a card is chosen for the quiz game.</li>
 </ul>
 
 <hr>
